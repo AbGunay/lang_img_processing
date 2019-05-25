@@ -8,7 +8,7 @@ The models were trained for 1 epoch and evaluated with cumulative Bleu n-gram sc
 
 Code: [Python notebook](https://github.com/AbGunay/lang_img_processing/blob/master/Image%20Caption%20Generating%20using%20four%20different%20models.ipynb)
 
-Results were presented in this [presentation](https://github.com/AbGunay/lang_img_processing/blob/master/Project_Presentation.pdf)
+Results are presented in this [presentation](https://github.com/AbGunay/lang_img_processing/blob/master/Project_Presentation.pdf)
 
 
 
