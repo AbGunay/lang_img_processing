@@ -5,3 +5,5 @@ The purpose of the project is to implement and evaluate the four different image
 As a dataset, Flickr8K was used: [Flickr8K images](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip), [Flickr8K texts](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip)
 
 
+
+
